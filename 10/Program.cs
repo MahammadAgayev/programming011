@@ -159,7 +159,7 @@ namespace _10
              *    //input:  3, 7 
              *    //output: 1, 8
              * 
-             * - Write a method to word with max letters in given sentence:
+             * - Write a method to find word with max letters in given sentence:
              *   //input: This is a interesting lesson.
              *   //output: interesting
              */
