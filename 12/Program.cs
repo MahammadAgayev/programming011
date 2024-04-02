@@ -85,11 +85,11 @@ namespace _12
             //Worst case: O(n^2)
             //Best case: O(n)
 
-            PrintArr(arr);
+            //PrintArr(arr);
 
-            InsertionSort(arr);
+            //InsertionSort(arr);
 
-            PrintArr(arr);
+            //PrintArr(arr);
 
             //Homework, write all below sorts 
             //Optimize the sort alghorithms, like if array already sorted, don't do extra iterations
