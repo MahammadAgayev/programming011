@@ -92,7 +92,7 @@ namespace _23
                 }
                 else
                 {
-                    iter = iter.Right;
+                    iter = iter.Left;
                 }
             }
 
@@ -202,10 +202,11 @@ namespace _23
              *                     (18)            
              *                     
              *                     
-             *                   (15)
-             *                        (18)
-             *                          
-             *                          
+             *             (9)
+             *      (5)             (16)
+             *   (3)   (7)      (13)    (18)
+             *                        (17)   (20)
+             *                      (16)
              *                          root.Right = null;
              */
         }
